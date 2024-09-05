@@ -4,7 +4,8 @@
     "paths": {
       "@models/*": ["models/*"],     // Maps `@models` to the `models` directory
       "@components/*": ["components/*"], // If you have a `components` folder
-      "@utils/*": ["utils/*"]         // For utilities or other common directories
+      "@utils/*": ["utils/*"],
+      "@styles/*": ["styles/*"]
     }
   }
 }
